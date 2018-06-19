@@ -14,10 +14,10 @@ from nltk import tokenize
 
 
 #Variables that contains the user credentials to access Twitter API 
-access_token = "2681388799-qRyQxAoFh28Y9d5ruYXqUVWvFILOU1OR9MQfp1N"
-access_token_secret = "1HhydR6G1P8RGzaUUAhfaTmi0l28Lqze8lII6TlvkC7Dv"
-consumer_key = "wngIzPc7VUIOB5O1zzGpyN6EO"
-consumer_secret = "iW76O6B7Au1lbuPziWFBzIuNbCkyoGxXXV9p4eOvAMau9Ma55H"
+access_token = ""
+access_token_secret = ""
+consumer_key = ""
+consumer_secret = ""
 
 
 #This is a basic listener that just prints received tweets to stdout.
